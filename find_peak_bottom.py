@@ -30,7 +30,7 @@ def find_bottom(data, var='Close', local_top_number=1):
         :param var: giá đóng cửa được dùng mặc định
         :param local_top_number: mặc định là 1
         :return:
-        """
+    """
     extreme = pd.DataFrame()
     data_len = len(data)
     rolling_number = local_top_number * 2 + 1
