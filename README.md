@@ -1,9 +1,6 @@
-<head>
-<title>Fiflow</title>
-</head>
+# Fiflow
 
-<body>
-Algorithm for trading by Fiflow
+Thuật toán dành cho trading, được viết bởi Fiflow
 
-<H1>Lưu ý</H1>
-</body>
+## Lưu ý
+Hãy sử dụng file giá csv để test các function
